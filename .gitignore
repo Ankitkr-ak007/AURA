@@ -26,9 +26,3 @@ dist-ssr
 # Environment variables - VERY IMPORTANT
 .env
 .env.*
-
-# VS Code specific
-.vscode/
-
-# A common convention for local environment variables
-.env
