@@ -1,0 +1,7 @@
+{
+  "name": "Aura: Your Mental Wellness Companion",
+  "description": "An AI-powered, confidential, and empathetic mental wellness solution designed to support and guide youth in overcoming stigma and accessing help. Have a safe conversation about your feelings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
